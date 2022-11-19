@@ -1,0 +1,5 @@
+YAMAL FILE OF KUBERNETE
+ APIVERSION : The virsion of the object
+ KIND : what kind of object we need to add
+ METADATA : the unicname that helps use to creating a different nmae to that 
+ SPEC: what is the diserd state of the object
