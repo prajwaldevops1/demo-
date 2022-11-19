@@ -1,0 +1,5 @@
+this all are most importent kubernete yaml file 
+apivirsion
+kind
+metadata
+spec
